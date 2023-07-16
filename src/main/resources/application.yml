@@ -1,0 +1,7 @@
+spring:
+  google:
+    clientId: ${GOOGLE_CLIENT_ID}
+    projectId: ${GOOGLE_PROJECT_ID}
+    clientSecret: ${GOOGLE_CLIENT_SECRET}
+    redirectUri: ${GOOGLE_REDIRECT_URI}
+    tokenUri: ${GOOGLE_TOKEN_URI}
